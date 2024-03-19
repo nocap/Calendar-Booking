@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Calendar.Booking.Main": {
+      "commandName": "Project",
+      "commandLineArgs": "ADD 19/03 10:55"
+    }
+  }
+}

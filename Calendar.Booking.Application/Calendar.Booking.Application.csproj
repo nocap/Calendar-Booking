@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Calendar.Booking.Core\Calendar.Booking.Core.csproj" />
+    <ProjectReference Include="..\Calendar.Booking.Persistence\Calendar.Booking.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
